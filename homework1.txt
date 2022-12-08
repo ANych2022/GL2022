@@ -1,0 +1,54 @@
+https://zomro.com/ua/virtual
+Netherlands
+Shared hosting
+vCPU	RAM (Memory)	SSD Storage	Transfer	    Pricing 
+2	2 GB		50 Gb		Unlimited traffic   $11x12 =  $132/year 
+
+Amazon Lightsail
+Frankfurt, Zone A (eu-central-1a)
+vCPU	RAM (Memory)	SSD Storage	Transfer	   Pricing 
+2	4 GB		80 Gb		4 Tb		   $11x12 =  $132/year 
+
+AWS
+Frankfurt, Zone A (eu-central)
+EC2 t4g.medium 
+vCPU	RAM (Memory)	SSD Storage	Transfer	   Pricing 
+2	4 GB		80 Gb		45 Tb		   $12x12 =  $144/year + RDS  $180/year = $324/year
+RDS db.t2.micro (vCPU: 1; Memory: 1 Gb; storage 5 Gb) - 15 USD/month
+
+
+https://zomro.com/ua/virtual
+Netherlands
+Dedicated server
+vCPU	RAM (Memory)	SSD Storage	Transfer	    Pricing 
+8	32 GB		480 Gb		Unlimited traffic   $46x12 =  $552/year 
+
+Amazon Lightsail
+Frankfurt, Zone A (eu-central-1a)
+vCPU	RAM (Memory)	SSD Storage	Transfer	   Pricing 
+8	32 GB		640 Gb		7 Tb		   $160x12 =  $1920/year
+
+AWS
+Frankfurt, Zone A (eu-central
+EC2 t4g.medium 
+vCPU	RAM (Memory)	SSD Storage	Transfer	   Pricing 
+8	32 GB		640 Gb		45 Tb		   $217x12 =  $2604/year + RDS  $720/year = $3324/year
+RDS db.t2.medium (vCPU: 2; Memory: 4 Gb; storage 10 Gb) -  60 USD/month
+
+
+
+Private server 
+Supermicro SYS-5019C-L - 2089 USD
+Intel Xeon E-2288G 8x3.7GHz
+RAM 32 GB
+SSD Storage 640 Gb
+
+- colocation services - 25 USD/month 
+- 2 dedicated channels 100 Mb/s - 200 USD/month
+- power supply - 2 USD/month 
+- UPC 500 w - 100 USD
+- AWS S3 500Gb backup - 7 USD/month 
+
+Total: > 5000 USD/year 
+ 
+
